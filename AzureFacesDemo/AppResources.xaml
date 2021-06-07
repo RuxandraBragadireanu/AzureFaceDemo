@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:AzureFacesDemo">
+
+    <Color x:Key="Color1">#3A5FF0</Color>
+    <Color x:Key="Color2">#058EF7</Color>
+    <Color x:Key="Color3">#10E0E0</Color> 
+    <Color x:Key="Color4">#05FA88</Color> 
+    <Color x:Key="Color5">#99FFA0</Color>
+
+    <SolidColorBrush x:Key="SolidColor1" Color="#3A5FF0"/>
+
+
+</ResourceDictionary>
